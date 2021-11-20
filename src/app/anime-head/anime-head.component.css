@@ -1,0 +1,7 @@
+.container {
+  background-color: aquamarine;
+}
+.container .row {
+  color: blueviolet;
+  background-color: bisque;
+}
